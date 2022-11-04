@@ -1,4 +1,4 @@
-export TASK_NAME=mrpc
+export TASK_NAME=qqp
 
 python run_glue.py \
   --model_name_or_path bert-base-cased \
